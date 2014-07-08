@@ -41,5 +41,6 @@ gem 'spring',        group: :development
 gem 'omniauth' 
 gem 'devise' 
 gem 'omniauth-facebook'
+gem 'omniauth-twitter'
 gem 'high_voltage'
 gem "better_errors"
